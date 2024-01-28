@@ -10,5 +10,5 @@ package secondproject;
  * @author buket.genc
  */
 public class Canlilar {
-    
+    private boolean yasiyorMu;
 }
