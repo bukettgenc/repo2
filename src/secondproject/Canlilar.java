@@ -13,5 +13,6 @@ public class Canlilar {
 	
     private boolean yasiyorMu;
     private boolean besleniyorMu;
+	private boolean nefesAliyorMu;
 
 }
